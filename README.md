@@ -50,3 +50,4 @@ Dummy Zone UI design : https://www.figma.com/file/UuSLaambk44t3s57zUUqyW/Dummy-Z
 - Providing plenty of options to the user in their account settings
 - Giving the user power to add his/her friend to the anonymous task/chat
 - more secured login page
+- Add rating system for the users
