@@ -6,5 +6,7 @@ It is an App which is built with love and care for the people around the world t
 
 Dummy Zone is built on Android Studio. In Android Studio certain kind of technologies are being used i.e.;
 ->Firebase for backend part.  
+
 ->Xml for the layout.
+
 ->Java file for functionality. 
