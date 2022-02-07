@@ -22,8 +22,8 @@ During the covid times many people have lost there loved ones. To help these peo
 
 # The Most User Friendly UI Design 
 
-The best UI design is made up using the most simple and amazing too Figma. It made our task more easier and fun. 
+The best UI design is made up using the most simple and amazing too Figma. It made our task more easier and fun.  
 
-
+Dummy Zone UI design : https://www.figma.com/file/UuSLaambk44t3s57zUUqyW/Dummy-Zone?node-id=0%3A1
 ![image](https://user-images.githubusercontent.com/70372465/152833988-56260d87-65a6-46d5-ba33-9a09f6d7ada8.png)
 
