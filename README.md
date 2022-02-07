@@ -6,6 +6,11 @@ It is an App which is built with love and care for the people around the world t
 ![dummy_zone_2](https://user-images.githubusercontent.com/70372465/152833110-efaa6958-0fa6-47d6-b41a-a92ab14fa720.png)
 
 
+# Idea and Inspiration 
+
+During the covid times many people have lost their loved ones. To help these people to overcome their loneliness and make them interact with the people around the globe by giving them a stupid task and sharing it. Dummy Zone is a place to innovate stupid things into something fun and joy which cannot be achieved easily. 
+
+
 # Built Software Information
 
 Dummy Zone is built on Android Studio. In Android Studio certain kind of technologies are being used i.e.;
@@ -16,9 +21,6 @@ Dummy Zone is built on Android Studio. In Android Studio certain kind of technol
 
 ->Java file for functionality.
 
-# Idea and Inspiration 
-
-During the covid times many people have lost their loved ones. To help these people to overcome their loneliness and make them interact with the people around the globe by giving them a stupid task and sharing it. Dummy Zone is a place to innovate stupid things into something fun and joy which cannot be achieved easily. 
 
 # The Most User Friendly UI Design 
 
