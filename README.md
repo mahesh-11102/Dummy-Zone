@@ -24,11 +24,7 @@ Dummy Zone is built on Android Studio. In Android Studio certain kind of technol
 - picaso Libarary
 - Firebase for backend part.  
 
-# The Most User Friendly UI Design 
 
-The best UI design is made up using the most simple and amazing too Figma. It made our task more easier and fun.  
-
-Dummy Zone UI design : https://www.figma.com/file/UuSLaambk44t3s57zUUqyW/Dummy-Zone?node-id=0%3A1
 ## Working sample of our App
 <img src="https://user-images.githubusercontent.com/77436328/152841875-c6883144-cd80-4d66-a2ad-6fb88f506fd1.png" width="250" height="500">    <img src="https://user-images.githubusercontent.com/77436328/152840901-7b3f1da0-3eb2-4627-b116-652b548c37fe.png" width="250" height="500">
     <img src="https://user-images.githubusercontent.com/77436328/152841453-2a916580-0130-4832-862d-6cde535a5296.png" width="250" height="500">
@@ -51,3 +47,11 @@ Dummy Zone UI design : https://www.figma.com/file/UuSLaambk44t3s57zUUqyW/Dummy-Z
 - Giving the user power to add his/her friend to the anonymous task/chat
 - more secured login page
 - Add rating system for the users
+
+
+
+# UI/UX design of our app
+
+Before Building our app we first worked on the Ui/UX using Figma. It made our task more easier and fun.  
+Dummy Zone UI design : https://www.figma.com/file/UuSLaambk44t3s57zUUqyW/Dummy-Zone?node-id=0%3A1
+
